@@ -1,4 +1,4 @@
-# :it: Versione Italiana
+# :it: 
 
 # Utenti in carico secondo la sostanza d'abuso primaria - Anno 2022
 
@@ -12,3 +12,19 @@
 
 
 [Link ai dati](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190) 
+
+# :uk:	 
+
+# Users in care by primary abused substance - Year 2022
+
+## Description 
+
+This dataset provides data about users treated by drug-specialized public centers in the reference year
+
+The information contained in the dataset is processed as a result of the data 
+sent by Regions to the Italian Ministry of Health (*Ministero della Salute*), 
+pursuant to the decree of the Minister of Health of 11 June 2010.
+
+For each center, data relating to users by category of substance of abuse are reported. (source from Ministero della Salute)
+
+[Link to dataset](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190) 
