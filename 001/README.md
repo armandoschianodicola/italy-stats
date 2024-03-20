@@ -10,8 +10,7 @@
 
 *Per ciascun servizio sono riportati i dati relativi agli utenti per categoria di sostanza d'abuso."* (fonte Ministero della Salute)
 
-
-[Link ai dati](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190){target="_blank"}
+<a href="[placeholder.com](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190)" target="_blank">Link ai dati</a>
 
 # :uk:	 
 
@@ -27,4 +26,4 @@ pursuant to the decree of the Minister of Health of 11 June 2010.
 
 For each center, data relating to users by category of substance of abuse are reported. (source from Ministero della Salute)
 
-[Link to dataset](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190) 
+<a href="[placeholder.com](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190)" target="_blank">Link to dataset</a>
