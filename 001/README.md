@@ -12,8 +12,6 @@
 
 **[Link ai dati](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190)**
 
-<a href="[placeholder.com](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190)" target="_blank"></a>
-
 # :uk:	 
 
 # Users in care by primary abused substance - Year 2022
@@ -28,4 +26,4 @@ pursuant to the decree of the Minister of Health of 11 June 2010.
 
 For each center, data relating to users by category of substance of abuse are reported. (source from Ministero della Salute)
 
-<a href="[placeholder.com](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190)" target="_blank">Link to dataset</a>
+**[Link to dataset](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190)**
