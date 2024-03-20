@@ -11,7 +11,7 @@
 *Per ciascun servizio sono riportati i dati relativi agli utenti per categoria di sostanza d'abuso."* (fonte Ministero della Salute)
 
 
-[Link ai dati](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190) 
+[Link ai dati](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=190){target="_blank"}
 
 # :uk:	 
 
