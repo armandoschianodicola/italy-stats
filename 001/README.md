@@ -1,6 +1,6 @@
 # :it: 
 
-# Utenti in carico secondo la sostanza d'abuso primaria - Anno 2022
+# Utenti in carico secondo la sostanza d'abuso primaria: oppiacei - Anno 2022
 
 ## Descrizione 
 
@@ -14,7 +14,7 @@
 
 # :uk:	 
 
-# Users in care by primary abused substance - Year 2022
+# Users in care by primary abused substance: opiates - Year 2022
 
 ## Description 
 
