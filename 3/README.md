@@ -1,6 +1,6 @@
 # :it: 
 
-# Utenti in carico secondo la sostanza d'abuso primaria: cocaina - Anno 2022
+# Utenti in carico secondo la sostanza d'abuso primaria: cannabinoidi - Anno 2022
 
 ## Descrizione 
 
@@ -14,7 +14,7 @@
 
 # :uk:	 
 
-# Users in care by primary abused substance: cocaine - Year 2022
+# Users in care by primary abused substance: cannabinoids - Year 2022
 
 ## Description 
 
