@@ -1,9 +1,12 @@
-class Cleaner:
+from utils.formatter import Formatter
+
+
+class RegionFormatter(Formatter):
 
     def __init__(self, df):
-        self.df = df
+        super().__init__(df)
 
-    def clean_regions(self, col):
+    def format(self, col):
         self.df[col] = self.df[col].str.strip()
         self.df.loc[self.df[col] == 'PROV. AUTON. BOLZANO', col] = 'trentino-alto adige'
         self.df.loc[self.df[col] == 'PROV. AUTON. TRENTO', col] = 'trentino-alto adige'
