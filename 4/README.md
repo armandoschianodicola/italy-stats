@@ -1,6 +1,6 @@
 # :it: 
 
-# Utenti in carico secondo la sostanza d'abuso primaria: cannabinoidi - Anno 2022
+# Utenti in carico secondo la sostanza d'abuso primaria: ipnotici e sedativi - Anno 2022
 
 ## Descrizione 
 
@@ -14,7 +14,7 @@
 
 # :uk:	 
 
-# Users in care by primary abused substance: cannabinoids - Year 2022
+# Users in care by primary abused substance: hypnotics and sedatives - Year 2022
 
 ## Description 
 
