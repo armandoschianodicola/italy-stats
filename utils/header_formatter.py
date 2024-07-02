@@ -1,7 +1,7 @@
 from utils.formatter import Formatter
 
 
-class ColumnFormatter(Formatter):
+class HeaderFormatter(Formatter):
 
     def __init__(self, df):
         super().__init__(df)
