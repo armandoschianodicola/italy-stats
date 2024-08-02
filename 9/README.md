@@ -13,7 +13,7 @@
 
 # :uk:	 
 
-# accesses to DSM diagnosed with 'Depression' by county - Year 2022
+# Accesses to DSM diagnosed with 'Depression' by county - Year 2022
 
 ## Description 
 
