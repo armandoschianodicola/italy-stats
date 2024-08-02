@@ -1,29 +1,28 @@
 # :it: 
 
-# Personale Medico Psichiatra dei SERD - Anno 2021
+# Accessi a DSM con diagnosi di 'Depressione' per provincia - Anno 2022
 
 ## Descrizione 
 
-*"Il data-set contiene i dati relativi al Personale dedicato all'assistenza degli utenti con problemi di dipendenza che opera nei servizi Ser.D.*
+*"Il data-set contiene i dati relativi agli accessi ai DSM (Dipartimento di Salute Mentale) per genere e gruppo diagnostico*
 
-*Le informazioni contenute nel data-set sono elaborate in riferimento ai dati che le Regioni trasmettono al Ministero della salute, ai sensi del decreto del Ministro della salute 11 giugno 2010.*
+*Le informazioni contenute nel data-set sono elaborate in riferimento ai dati che le Regioni trasmettono al Ministero della salute, ai sensi del decreto del Ministro della salute 11 giugno 2010.* (fonte Ministero della Salute)
 
-*Per ciascun servizio sono riportati i dati relativi al personale dei SERD per profilo professionale e tipo di rapporto di lavoro."* (fonte Ministero della Salute)
-
-**[Link ai dati](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=188)**
+**[Link ai dati DSM](https://www.dati.salute.gov.it/it/dataset/prevalenza-degli-utenti-trattati-nei-dsm-sesso-e-gruppo-diagnostico-2022/)** 
+**[Link dataset asl](https://www.dati.salute.gov.it/it/dataset/aziende-sanitarie-locali-asl/)** 
 
 # :uk:	 
 
-# SERD Psychiatrists Personnel - Year 2021
+# accesses to DSM diagnosed with 'Depression' by county - Year 2022
 
 ## Description 
 
-*This dataset provides data about personnel assigned to drug-addicted users in Ser.D.*
+*This dataset provides data about accesses to DSM (Mental Health Department, "Dipartimento di Salute Mentale") by sex and diagnostic group*
 
 *The information contained in the dataset is processed as a result of the data 
 sent by Regions to the Italian Ministry of Health (*Ministero della Salute*), 
-pursuant to the decree of the Minister of Health of 11 June 2010.*
+pursuant to the decree of the Minister of Health of 11 June 2010.* (source from Ministero della Salute)*
 
-*For each center, data relating to qualification and employement status of personnel are reported. (source from Ministero della Salute)*
+**[Link to DSM dataset](https://www.dati.salute.gov.it/it/dataset/prevalenza-degli-utenti-trattati-nei-dsm-sesso-e-gruppo-diagnostico-2022/)**
+**[Link asl dataset](https://www.dati.salute.gov.it/it/dataset/aziende-sanitarie-locali-asl/)** 
 
-**[Link to dataset](https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=188)**
