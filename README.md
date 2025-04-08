@@ -1,7 +1,6 @@
 # italy-stats
 
-## :it: 
-## Elenco dei contenuti
+## :it: Elenco dei contenuti
 
 - [Utenti in carico secondo la sostanza d'abuso primaria: oppiacei - Anno 2022](001/)
 - [Utenti in carico secondo la sostanza d'abuso primaria: cocaina - Anno 2022](2/)
@@ -17,7 +16,7 @@
 - [Accessi a DSM con diagnosi di 'Ritardo mentale' per provincia - Anno 2022](12/)
 
 
-## :uk: 
+ 
 ## Table of contents
 
 - [Users in care by primary abused substance: opiates - Year 2022](001/)
