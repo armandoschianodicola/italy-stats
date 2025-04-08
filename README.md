@@ -14,10 +14,8 @@
 - [Accessi a DSM con diagnosi di 'Alcolismo e Tossicomanie' per provincia - Anno 2022](10/)
 - [Accessi a DSM con diagnosi di 'Demenze e disturbi mentali organici' per provincia - Anno 2022](11/)
 - [Accessi a DSM con diagnosi di 'Ritardo mentale' per provincia - Anno 2022](12/)
-
-
  
-## Table of contents
+## :uk: Table of contents
 
 - [Users in care by primary abused substance: opiates - Year 2022](001/)
 - [Users in care by primary abused substance: cocaine - Year 2022](2/)
